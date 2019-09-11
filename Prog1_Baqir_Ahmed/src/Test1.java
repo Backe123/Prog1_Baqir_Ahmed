@@ -1,7 +1,7 @@
 
 public class Test1 {
 	public static void main(String [] arg){
-		//bhsdf
+		//bhsd
 		int tal1; //deklarering
 		int Tal1=1;  
 		tal1=1;   //tilldelning
